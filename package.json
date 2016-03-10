@@ -1,35 +1,16 @@
 {
   "name": "react-native-motion-manager",
-  "version": "0.0.6",
-  "description": "A react-native interface for using the Gyroscope, Accelerometer and Magnetometer",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [
-    "react-component",
-    "react-native",
-    "ios",
-    "CMMotionManager",
-    "MotionManager",
-    "Gyroscope",
-    "Accelerometer",
-    "Magnetometer"
-  ],
   "repository": {
-    "type": "git",
-    "url": "github.com:pwmckenna/react-native-motion-manager.git"
+    "type" : "git",
+    "url" : "https://github.com/skizzo/react-native-motion-manager.git"
   },
-  "author": "Patrick Williams <pwmckenna@gmail.com> (http://pwmckenna.com/)",
-  "contributors": [
-    "Brent Vatne <brentvatne@gmail.com>"
-  ],
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/pwmckenna/react-native-motion-manager/issues"
-  },
-  "homepage": "https://github.com/pwmckenna/react-native-motion-manager",
-  "peerDependencies": {
-    "react-native": "*"
-  }
+  "version": "0.0.1",
+  "description": "Skizzo's fork from splash screen, original @ https://github.com/pwmckenna/react-native-motion-manager",
+  "author": "",
+  "nativePackage": true,
+  "keywords": [
+    "react-native",
+    "react",
+    "native"
+  ]
 }

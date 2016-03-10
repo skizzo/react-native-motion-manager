@@ -1,6 +1,6 @@
 # react-native-motion-manager
 
-CMMotionManager wrapper for react-native, exposing Accelerometer, Gyroscope, and Magnetometer.
+CMMotionManager wrapper for react-native, exposing Accelerometer, Gyroscope, and Magnetometer. (SKIZZO FORK)
 
 ### Add it to your project
 
